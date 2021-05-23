@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="rating_item">rating item</string>
+    <string name="title_activity_detail">Movies Detail</string>
+
+    <string name="country">Country</string>
+    <string name="language">Language</string>
+    <string name="title_activity_series_detail">Series Detail</string>
+    <string name="series_poster">Series Poster</string>
+    <string name="share">Share</string>
+    <string name="revenue">Revenue</string>
+    <string name="overview">Overview</string>
+    <string name="release">Release</string>
+    <string name="movies">Movies</string>
+    <string name="tv_series">TV Series</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite">favorite</string>
+    <string name="search">Search</string>
+    <string name="movie_fav_empty">Movie favorited still empty</string>
+    <string name="series_fav_empty">TV Series favorited still empty</string>
+    <string name="empty_search">Data not found</string>
+    <string name="movie_hint">Movie Search</string>
+    <string name="series_hint">TV Series Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
